@@ -1,0 +1,36 @@
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\bin\Debug\net8.0\Domains.deps.json
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\bin\Debug\net8.0\Domains.dll
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\bin\Debug\net8.0\Domains.pdb
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.csproj.AssemblyReference.cache
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.AssemblyInfoInputs.cache
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.AssemblyInfo.cs
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.csproj.CoreCompileInputs.cache
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.dll
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\refint\Domains.dll
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.pdb
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\ref\Domains.dll
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\bin\Debug\net8.0\Domains.deps.json
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\bin\Debug\net8.0\Domains.dll
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\bin\Debug\net8.0\Domains.pdb
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.csproj.AssemblyReference.cache
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.AssemblyInfoInputs.cache
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.AssemblyInfo.cs
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.csproj.CoreCompileInputs.cache
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.dll
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\refint\Domains.dll
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\Domains.pdb
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\Domains\obj\Debug\net8.0\ref\Domains.dll
+I:\Programming\Back End\WebApi\Domains\bin\Debug\net8.0\Domains.deps.json
+I:\Programming\Back End\WebApi\Domains\bin\Debug\net8.0\Domains.dll
+I:\Programming\Back End\WebApi\Domains\bin\Debug\net8.0\Domains.pdb
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\Domains.csproj.AssemblyReference.cache
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\Domains.AssemblyInfoInputs.cache
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\Domains.AssemblyInfo.cs
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\Domains.csproj.CoreCompileInputs.cache
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\Domains.dll
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\refint\Domains.dll
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\Domains.pdb
+I:\Programming\Back End\WebApi\Domains\obj\Debug\net8.0\ref\Domains.dll
