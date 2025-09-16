@@ -1,0 +1,51 @@
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\DAL.deps.json
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\DAL.dll
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\DAL.pdb
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.dll
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\refint\DAL.dll
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.pdb
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\ref\DAL.dll
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\Domains.dll
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\Domains.pdb
+G:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\DAL.dll
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\Domains.dll
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\bin\Debug\net8.0\Domains.pdb
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.dll
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\Current Courses\Asp.net mvc core v1\Level 2\Samples\WebApi\DAL\obj\Debug\net8.0\ref\DAL.dll
+I:\Programming\Back End\WebApi\DAL\bin\Debug\net8.0\DAL.deps.json
+I:\Programming\Back End\WebApi\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+I:\Programming\Back End\WebApi\DAL\bin\Debug\net8.0\DAL.dll
+I:\Programming\Back End\WebApi\DAL\bin\Debug\net8.0\DAL.pdb
+I:\Programming\Back End\WebApi\DAL\bin\Debug\net8.0\Domains.dll
+I:\Programming\Back End\WebApi\DAL\bin\Debug\net8.0\Domains.pdb
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.dll
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\refint\DAL.dll
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.pdb
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+I:\Programming\Back End\WebApi\DAL\obj\Debug\net8.0\ref\DAL.dll
